@@ -214,3 +214,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Seen URLs
+seen_urls.json
+
+# Summaries
+summaries/
+summaries/*
+summaries/*.md
+summaries/national/
+summaries/national/*
+summaries/national/*.md
+summaries/regional/
+summaries/regional/*
+summaries/regional/*.md
